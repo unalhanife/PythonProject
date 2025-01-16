@@ -43,3 +43,5 @@ account.display_balance()
 account.deposit(500)
 account.money_check(300)
 account.money_check(1500)
+
+#ikinci deneme
